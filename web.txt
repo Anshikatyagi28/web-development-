@@ -1,0 +1,24 @@
+1) web page, static 
+2) dynamic , application 
+
+3) basic html structure (boilerplate)
+4) inline and block tag (element)
+5) basic website structure. 
+
+
+
+// hosting : http://127.0.0.1:{Port number}/ {filename} our website would be localy in our system host in local host or an default port.. (NOTE: future)
+
+
+
+// TASK : 
+
+git push -u origin main
+
+done check in the github
+oye i commit change kesa hota hota bhyi commit ka use ku krta h huma
+
+commit ka use iss lia karte hain ki humne jis bhi last functionality per work kiya tha ya kya kaam or khan tak kiya tha ye sab ruk ma ayi hmm
+
+
+oyy h kya hua 1 min 
